@@ -1,0 +1,1 @@
+I want retry visibility prioritised and I'm talking to an engineering lead. Facts I have: support logged 6 tickets last week mentioning unclear failures, and the UI shows a generic error after the second retry. We have not measured whether clearer errors reduce repeat attempts. Give me crisp bullets I can say.

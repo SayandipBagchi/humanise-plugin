@@ -1,0 +1,17 @@
+{
+  "name": "humanise",
+  "owner": {
+    "name": "Sayandip Bagchi"
+  },
+  "metadata": {
+    "description": "Humanise — writing and meeting-communication skills for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "humanise",
+      "source": "./",
+      "description": "Rewrites AI-shaped prose so it reads like the writer, preserving every fact, and turns meeting, pitch, and stakeholder material into crisp lines you can say out loud.",
+      "category": "writing"
+    }
+  ]
+}

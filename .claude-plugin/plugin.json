@@ -1,0 +1,23 @@
+{
+  "name": "humanise",
+  "version": "2.0.0",
+  "description": "Rewrites AI-shaped prose so it reads like the writer, preserving every fact, and turns meeting, pitch, and stakeholder material into crisp lines you can say out loud.",
+  "author": {
+    "name": "Sayandip Bagchi"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "writing",
+    "editing",
+    "humanise",
+    "humanize",
+    "prose",
+    "voice",
+    "meeting",
+    "talking-points",
+    "stakeholder",
+    "pitch",
+    "pushback",
+    "communication"
+  ]
+}

@@ -1,0 +1,1 @@
+I have 30 seconds with our VP at the end of standup. Checkout failures rose from 2% to 5% after Tuesday's release. I have one day of data. I need a decision on whether to roll back. I don't know the root cause yet. What do I say?

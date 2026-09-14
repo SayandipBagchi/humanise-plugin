@@ -1,0 +1,18 @@
+# Optional UI metadata for OpenAI hosts. Not required for the skill's behaviour.
+# Lives in hosts/ rather than agents/: in Claude plugin format, agents/ means subagents.
+author: "Sayandip Bagchi"
+skills:
+  - name: humanise
+    interface:
+      display_name: "Humanise"
+      short_description: "Rewrite AI-shaped prose so it sounds like the writer"
+      default_prompt: "Use $humanise to rewrite this draft so it sounds like me, keeping every fact."
+    policy:
+      allow_implicit_invocation: true
+  - name: meeting-talk
+    interface:
+      display_name: "Meeting talk"
+      short_description: "Crisp lines you can say in a meeting"
+      default_prompt: "Use $meeting-talk to turn these facts into lines I can say to a stakeholder."
+    policy:
+      allow_implicit_invocation: true
